@@ -1,5 +1,5 @@
-# FreeCAD Utility Set  
-### For Madcow 3in Fiberglass Scooter
+# Madcow 3in Fiberglass Scooter Rocket Kit
+### Made with FreeCAD 1.0
 
 This repository contains a set of custom FreeCAD-designed utilities to assist in building and finishing the **Madcow 3" Fiberglass Scooter** high-power rocket kit.
 
