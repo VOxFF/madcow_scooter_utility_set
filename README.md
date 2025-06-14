@@ -1,9 +1,20 @@
-# FreeCAD Utility Set  
-### For Madcow 3in Fiberglass Scooter
+# Madcow 3in Fiberglass Scooter Rocket Kit Utility
+### Made with FreeCAD 1.0
 
 This repository contains a set of custom FreeCAD-designed utilities to assist in building and finishing the **Madcow 3" Fiberglass Scooter** high-power rocket kit.
 
 ![Madcow 3in Fiberglass Scooter Utility Set](Madcow%203in%20Fiberglass%20Scooter%20Utility%20Set.png)
+
+## Bill of Materials (BOM)
+| Type | Description | Count |
+| -------- | ------- | ------- |
+| 🟢 | Fin Hoder Rear | 1 |
+| 🟢 | Fin Hoder Front | 1 |
+| 🔴 | Rear Rail Button Ring | 1 |
+| 🔴 | Front Rail Button Ring | 1 |
+| 🟠 | Rear Stand | 1 |
+| 🟠 | Front Stand | 1 |
+| 🟢 | Painting Stand | 1 |
 
 ## 🟢 Green – Construction Utilities
 - Front and rear utility rings to assist during the epoxy phase.
