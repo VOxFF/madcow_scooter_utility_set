@@ -7,7 +7,7 @@ This repository contains a set of custom FreeCAD-designed utilities to assist in
 
 ## Bill of Materials (BOM)
 | Type | Description | Count |
-| -------- | ------- |
+| -------- | ------- | ------- |
 | 🟢 | Fin Hoder Rear | 1 |
 | 🟢 | Fin Hoder Front | 1 |
 | 🔴 | Rear Rail Button Ring | 1 |
